@@ -7,8 +7,7 @@
 - 🌱 I’m learning Full Stack Web Development
 - 🧠 Experienced in Python, C, C++, Java, SQL
 - 💼 2.5+ years experience as a software developer
-- 🎓 Mentor and trainer for beginner programmers
 
 
 ### 📫 Connect with me
-- 📧 naveenr0501@gmail.com
+- 📧 naveenkumarn0555@gmail.com
