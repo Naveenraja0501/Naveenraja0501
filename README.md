@@ -5,8 +5,8 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on Python, Django projects
 - 🌱 I’m learning Full Stack Web Development
-- 🧠 Experienced in Python, C, C++, Java, SQL
-- 💼 2.5+ years experience as a software developer
+- 🧠 Experienced in Python, SQL
+- 💼 2.5+ years experience as a python developer
 
 
 ### 📫 Connect with me
